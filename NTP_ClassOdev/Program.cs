@@ -28,6 +28,7 @@ namespace NTP_Projeler
 
             MusteriManager manager = new MusteriManager();
 
+
             foreach (var musteri in musteriler)
             {
                 manager.Add(musteri);
